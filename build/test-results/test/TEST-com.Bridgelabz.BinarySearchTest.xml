@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.Bridgelabz.BinarySearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-11T03:20:43" hostname="DESKTOP-4IPP4FC" time="0.536">
+<testsuite name="com.Bridgelabz.BinarySearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-11T03:42:09" hostname="DESKTOP-4IPP4FC" time="0.167">
   <properties/>
-  <testcase name="givenThreeNumbers_whenAddedToTree_ShouldReturnSizeThree()" classname="com.Bridgelabz.BinarySearchTest" time="0.536"/>
+  <testcase name="givenNumber_WhenSearched_ShouldBeFoundInBST()" classname="com.Bridgelabz.BinarySearchTest" time="0.167"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
